@@ -8,3 +8,4 @@ start running the server first
 run the client
 type "CONNECT" all upeerscase to connect to the server
 then type any massage you want
+.
